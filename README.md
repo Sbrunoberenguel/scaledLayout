@@ -2,7 +2,7 @@
 This code belongs to the investigation presented in the paper [Scaled 360 Layouts: Revisiting non-central panoramas](https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Berenguel-Baeta_Scaled_360_Layouts_Revisiting_Non-Central_Panoramas_CVPRW_2021_paper.pdf) from the 2nd OmniCV Workshop. 
 
 ```bibtex
-@article{berenguel2021scaled,
+@inproceedings{berenguel2021scaled,
   title={Scaled 360 Layouts: Revisiting Non-Central Panoramas},
   author={Berenguel-Baeta, Bruno and Bermudez-Cameo, Jesus and Guerrero, Jose J},
   booktitle={Proceedings of the Conference on Computer Vision and Pattern Recognition Workshop},
@@ -33,7 +33,7 @@ The data-set used to fine-tune the network and perform the experiments can be fo
 To download the weigths used in the articles, click [Here](https://drive.google.com/drive/folders/1h7bK8GY5Alaapb5G075wcAw3Or5s5J9P?usp=sharing)
 
 ## Inference
-First, intall the 'requirements.txt' to get the propet packages and versions. We have tested with this requirements and it works perfectly, we do not guarantee the functionality with other versions.
+First, install the 'requirements.txt' to get the proper packages and versions. We have tested with this requirements and it works perfectly, we do not guarantee the functionality with other versions.
 
 Then, run the 'main.py' file. You will get the 3D reconstruction as a '*.mat*' file. This file is a python dictionary which contains:</p>
 
