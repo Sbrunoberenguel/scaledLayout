@@ -1,5 +1,28 @@
 # Scaled 360 Layouts
-This code belongs to the investigation presented in the paper [Scaled 360 Layouts: Revisiting non-central panoramas](https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Berenguel-Baeta_Scaled_360_Layouts_Revisiting_Non-Central_Panoramas_CVPRW_2021_paper.pdf) from the 2nd OmniCV Workshop. The work and results are extended in [Atlanta Scaled Layouts from Non-central Panoramas](https://scholar.google.com/citations?user=LumAxQsAAAAJ&hl=es)
+This code belongs to the investigation presented in the paper [Scaled 360 Layouts: Revisiting non-central panoramas](https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Berenguel-Baeta_Scaled_360_Layouts_Revisiting_Non-Central_Panoramas_CVPRW_2021_paper.pdf) from the 2nd OmniCV Workshop. 
+
+```bibtex
+@article{berenguel2021scaled,
+  title={Scaled 360 Layouts: Revisiting Non-Central Panoramas},
+  author={Berenguel-Baeta, Bruno and Bermudez-Cameo, Jesus and Guerrero, Jose J},
+  booktitle={Proceedings of the Conference on Computer Vision and Pattern Recognition Workshop},
+  pages={3702--3705},
+  year={2021},
+  organization={IEEE}
+}
+```
+
+The work and results are extended in [Atlanta Scaled Layouts from Non-central Panoramas](https://scholar.google.com/citations?user=LumAxQsAAAAJ&hl=es)
+
+```bibtex
+@article{berenguel2022atlanta,
+  title={Atlanta Scaled Layouts from Non-central Panoramas},
+  author={Berenguel-Baeta, Bruno and Bermudez-Cameo, Jesus and Guerrero, Jose J},
+  booktitle={Pattern Recognition},
+  year={2022},
+  organization={Elsevier}
+}
+```
 
 # Code
 Code for scaled layout recovery from single non-central panoramas.
