@@ -12,7 +12,7 @@ This code belongs to the investigation presented in the paper [Scaled 360 Layout
 }
 ```
 
-The work and results are extended in [Atlanta Scaled Layouts from Non-central Panoramas](https://scholar.google.com/citations?user=LumAxQsAAAAJ&hl=es)
+The work and results are extended in [Atlanta Scaled Layouts from Non-central Panoramas](https://www.sciencedirect.com/science/article/pii/S0031320322002217)
 
 ```bibtex
 @article{berenguel2022atlanta,
@@ -20,7 +20,8 @@ The work and results are extended in [Atlanta Scaled Layouts from Non-central Pa
   author={Berenguel-Baeta, Bruno and Bermudez-Cameo, Jesus and Guerrero, Jose J},
   booktitle={Pattern Recognition},
   year={2022},
-  organization={Elsevier}
+  organization={Elsevier},
+  doi = {https://doi.org/10.1016/j.patcog.2022.108740}
 }
 ```
 
