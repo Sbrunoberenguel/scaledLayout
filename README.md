@@ -1,10 +1,10 @@
 # Scaled 360 Layouts
 <p align="center">
 <img src='img/L101_R06101.png' width=400>
-<img src='L101_3D.png' width=400>
+<img src='img/AFimg0746.png' width=400>
 </p>
 <p align="center">
-<img src='img/AFimg0746.png' width=400>
+<img src='L101_3D.png' width=400>
 <img src='AF746_3D.png' width=400>
 </p>
 
