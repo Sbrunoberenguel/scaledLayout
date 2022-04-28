@@ -1,4 +1,13 @@
 # Scaled 360 Layouts
+<p align="center">
+<img src='img/L101_R06101.png' width=400>
+<img src='L101_3D.png' width=400>
+</p>
+<p align="center">
+<img src='img/AFimg0746.png' width=400>
+<img src='AF746_3D.png' width=400>
+</p>
+
 This code belongs to the investigation presented in the paper [Scaled 360 Layouts: Revisiting non-central panoramas](https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Berenguel-Baeta_Scaled_360_Layouts_Revisiting_Non-Central_Panoramas_CVPRW_2021_paper.pdf) from the 2nd OmniCV Workshop. 
 
 ```bibtex
@@ -26,14 +35,6 @@ The work and results are extended in [Atlanta Scaled Layouts from Non-central Pa
 ```
 
 # Code
-<p align="center">
-<img src='img/L101_R06101.png' width=400>
-<img src='L101_3D.png' width=400>
-</p>
-<p align="center">
-<img src='img/AFimg0746.png' width=400>
-<img src='AF746_3D.png' width=400>
-</p>
 
 Code for scaled layout recovery from single non-central panoramas.
 Includes the Neural Network architecture (based on the code of [HorizonNet](https://github.com/sunset1995/HorizonNet) ) and weights of the fine-tuned version to handle non-central panoramas. We also present the geometrical processing to obtain scaled layouts from non-central panoramas and the programs and metrics used to obtain the results presented in our paper.
