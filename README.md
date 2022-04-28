@@ -37,7 +37,7 @@ In order to set-up the packages or virtual environment to run the repository, we
 ```bash
 pip install -r requirementsU20.txt
 ```
-To set up the repository in Windows, we recoment the use of [Anaconda](https://www.anaconda.com) and use [requirementsCondaW64.txt](https://github.com/Sbrunoberenguel/scaledLayout/blob/main/requirementsCondaW64) as:
+To set up the repository in Windows, we recommend the use of [Anaconda](https://www.anaconda.com) with cuda 10.2 and use [requirementsCondaW64.txt](https://github.com/Sbrunoberenguel/scaledLayout/blob/main/requirementsCondaW64) as:
 ```bash
 conda create --name layoutsEnv python=3.8  --file requirementsCondaW64.txt
 ```
